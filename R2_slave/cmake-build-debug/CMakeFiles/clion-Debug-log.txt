@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/win/ninja.exe" -G Ninja -S I:\ROBOCON\newR2Slave\DBUS_1 -B I:\ROBOCON\newR2Slave\DBUS_1\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: I:/ROBOCON/newR2Slave/DBUS_1/cmake-build-debug
